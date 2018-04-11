@@ -2,7 +2,9 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:BPMREVB"
-             x:Class="BPMREVB.MainPage">
+             x:Class="BPMREVB.History"
+             NavigationPage.HasNavigationBar="False"
+             >
     <StackLayout>
 
         <StackLayout            Orientation="Horizontal" 
@@ -14,7 +16,7 @@
             <BoxView
                 HorizontalOptions = "FillAndExpand"
                 VerticalOptions = "FillAndExpand"
-                BackgroundColor ="Green">
+                BackgroundColor ="#394D5C">
             </BoxView>
         </StackLayout>
 
@@ -28,9 +30,9 @@
             </BoxView>
         </StackLayout>
 
-        <StackLayout  Orientation="Horizontal" VerticalOptions="End" BackgroundColor ="DarkBlue">
+        <StackLayout  Orientation="Horizontal" VerticalOptions="End" BackgroundColor ="#21303B">
             <ContentView                    HorizontalOptions = "FillAndExpand">
-                <Image>
+                <Image BackgroundColor="#7891A3">
                     <Image.Source>
                         <OnPlatform x:TypeArguments="ImageSource">
                             <On Platform="iOS" Value="history.png" />

@@ -1,6 +1,14 @@
+C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.csprojResolveAssemblyReference.cache
 C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.csproj.CoreCompileInputs.cache
 C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.App.xaml.g.cs
 C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.History.xaml.g.cs
 C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.MainPage.xaml.g.cs
+C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.Settings.xaml.g.cs
+C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.Stats.xaml.g.cs
 C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.AssemblyInfoInputs.cache
 C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.AssemblyInfo.cs
+C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\bin\Debug\netstandard2.0\BPMREVB.deps.json
+C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\bin\Debug\netstandard2.0\BPMREVB.dll
+C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\bin\Debug\netstandard2.0\BPMREVB.pdb
+C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.dll
+C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\obj\Debug\netstandard2.0\BPMREVB.pdb

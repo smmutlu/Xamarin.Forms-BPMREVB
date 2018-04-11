@@ -1,0 +1,317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-UMTIVUS</Machine>
+    <WindowsUser>Sean</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x86</SolutionConfiguration>
+    <PackageArchitecture>x86</PackageArchitecture>
+    <PackageIdentityName>ec0cc741-fd3e-485c-81be-68815c480690</PackageIdentityName>
+    <PackageIdentityPublisher>CN=3eff5748-c045-41a2-8f2f-d6fe789901ed</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\obj\x86\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\AppX</LayoutDir>
+    <RegisteredManifestChecksum>76C9C2EE9D87652C6A17367C4D9E9B004FA3F1F6DE8321FFE92C741968B81521</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>b866c217-8303-4b3c-982f-d7f6e80fadf4_1.0.0.0_x86__tcy1dtmtsr74e</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>b866c217-8303-4b3c-982f-d7f6e80fadf4_tcy1dtmtsr74e!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>b866c217-8303-4b3c-982f-d7f6e80fadf4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=3eff5748-c045-41a2-8f2f-d6fe789901ed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T11:04:50.957</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-100.png">
+      <PackagePath>Assets\LockScreenLogo.scale-100.png</PackagePath>
+      <Modified>2018-04-11T09:14:35.893</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-125.png">
+      <PackagePath>Assets\LockScreenLogo.scale-125.png</PackagePath>
+      <Modified>2018-04-11T09:14:35.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-150.png">
+      <PackagePath>Assets\LockScreenLogo.scale-150.png</PackagePath>
+      <Modified>2018-04-11T09:14:35.898</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2018-04-11T09:14:35.969</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\LockScreenLogo.scale-400.png">
+      <PackagePath>Assets\LockScreenLogo.scale-400.png</PackagePath>
+      <Modified>2018-04-11T09:14:35.977</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:35.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-125.png">
+      <PackagePath>Assets\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:35.983</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-150.png">
+      <PackagePath>Assets\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:35.989</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:35.991</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\SplashScreen.scale-400.png">
+      <PackagePath>Assets\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:35.994</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:35.998</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-125.png">
+      <PackagePath>Assets\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.003</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-150.png">
+      <PackagePath>Assets\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.006</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.008</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-100.png">
+      <PackagePath>Assets\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.016</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-125.png">
+      <PackagePath>Assets\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.018</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-150.png">
+      <PackagePath>Assets\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.020</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.scale-400.png">
+      <PackagePath>Assets\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.030</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.032</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-32_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.040</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.043</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.045</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.050</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-125.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-150.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.055</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.057</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Assets\Wide310x150Logo.scale-400.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T09:14:36.062</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\BPMREVB.UWP.dll">
+      <PackagePath>BPMREVB.UWP.dll</PackagePath>
+      <Modified>2018-04-11T11:04:49.767</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\BPMREVB.UWP.exe">
+      <PackagePath>BPMREVB.UWP.exe</PackagePath>
+      <Modified>2018-04-11T11:04:50.919</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\BPMREVB.UWP.pdb">
+      <PackagePath>BPMREVB.UWP.pdb</PackagePath>
+      <Modified>2018-04-11T11:04:50.901</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+      <Modified>2017-10-01T03:25:58.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Images\history.scale-100.png">
+      <PackagePath>Images\history.scale-100.png</PackagePath>
+      <Modified>2018-04-11T09:56:11.723</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Images\history.scale-200.png">
+      <PackagePath>Images\history.scale-200.png</PackagePath>
+      <Modified>2018-04-11T09:56:03.564</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Images\settings.scale-100.png">
+      <PackagePath>Images\settings.scale-100.png</PackagePath>
+      <Modified>2018-04-11T10:15:25.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Images\settings.scale-200.png">
+      <PackagePath>Images\settings.scale-200.png</PackagePath>
+      <Modified>2018-04-11T10:15:25.159</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Images\stats.scale-100.png">
+      <PackagePath>Images\stats.scale-100.png</PackagePath>
+      <Modified>2018-04-11T10:16:15.734</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\Images\stats.scale-200.png">
+      <PackagePath>Images\stats.scale-200.png</PackagePath>
+      <Modified>2018-04-11T10:16:15.742</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2018-04-11T11:03:45.387</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x86\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-x64\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx">
+      <Name>Microsoft.NET.Native.Framework.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\NuGetPackagesFallback\microsoft.net.native.sharedlibrary-arm\2.0.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Sean\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Sean\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Sean\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Sean\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Users\Sean\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx">
+      <Name>Microsoft.NET.Native.Runtime.2.0</Name>
+      <Version>2.0.25709.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.2.0, MinVersion = 2.0.25709.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Users\Sean\.nuget\packages\microsoft.net.native.compiler\2.0.0\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.2.0.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

@@ -14,7 +14,7 @@ namespace BPMREVB
 		{
 			InitializeComponent();
 
-			MainPage = new NavigationPage(new MainPage());
+			MainPage = new NavigationPage(new History());
 		}
 
 		protected override void OnStart ()

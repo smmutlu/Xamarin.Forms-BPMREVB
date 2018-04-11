@@ -30,7 +30,7 @@ namespace BPMREVB
 
 	    }
 
-	    private void OnButton1Clicked(object sender, EventArgs args)
+	    async void OnButton1Clicked(object sender, EventArgs args)
 	    {
 	        Image image = (Image)sender;
 	        image.Opacity = 0.75;
@@ -40,10 +40,10 @@ namespace BPMREVB
 	            image.Opacity = 1;
 	            return false;
 	        });
-	//        await Navigation.PushAsync(new History());
+	       await Navigation.PushAsync(new History ());
         }
 
-	    private void OnButton2Clicked(object sender, EventArgs args)
+	    async void OnButton2Clicked(object sender, EventArgs args)
 	    {
 	        Image image = (Image)sender;
 	        image.Opacity = 0.75;
@@ -53,9 +53,10 @@ namespace BPMREVB
 	            image.Opacity = 1;
 	            return false;
 	        });
+	        await Navigation.PushAsync(new Stats ());
 
         }
-	    private void OnButton3Clicked(object sender, EventArgs args)
+        async void OnButton3Clicked(object sender, EventArgs args)
 	    {
 	        Image image = (Image)sender;
 	        image.Opacity = 0.75;
@@ -65,7 +66,9 @@ namespace BPMREVB
 	            image.Opacity = 1;
 	            return false;
 	        });
+	        await Navigation.PushAsync(new Settings());
 
-	    }
+
+        }
     }
 }
