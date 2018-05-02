@@ -31,13 +31,13 @@
     <AppXManifest Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-11T13:19:29.952</Modified>
+      <Modified>2018-05-02T09:34:37.357</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Debug\BPMREVB.UWP.exe">
       <PackagePath>entrypoint\BPMREVB.UWP.exe</PackagePath>
-      <Modified>2018-04-11T13:19:28.869</Modified>
+      <Modified>2018-05-02T09:34:36.401</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sean\.nuget\packages\runtime.win10-x86.microsoft.netcore.universalwindowsplatform\6.0.1\runtimes\win10-x86\nativeassets\uap10.0.15138\clrcompression.dll">
       <PackagePath>clrcompression.dll</PackagePath>
@@ -713,7 +713,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB\bin\Debug\netstandard2.0\BPMREVB.dll">
       <PackagePath>BPMREVB.dll</PackagePath>
-      <Modified>2018-04-11T13:19:23.412</Modified>
+      <Modified>2018-05-02T09:34:31.076</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\Images\history.scale-100.png">
       <PackagePath>Images\history.scale-100.png</PackagePath>
@@ -908,11 +908,11 @@
     <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-04-11T13:19:29.545</Modified>
+      <Modified>2018-05-02T09:34:37.026</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Sean\source\repos\BPMREVB\BPMREVB\BPMREVB.UWP\bin\x86\Debug\Core\BPMREVB.UWP.exe">
       <PackagePath>BPMREVB.UWP.exe</PackagePath>
-      <Modified>2018-04-11T13:19:29.939</Modified>
+      <Modified>2018-05-02T09:34:37.351</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>
