@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pages:ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:behaviors="clr-namespace:Acr.XamForms.Behaviors;assembly=Acr.XamForms"
+             xmlns:viewModel="clr-namespace:FinalBPM.ViewModel.FinalBPM.ViewModel;assembly=FinalBPM"
+             xmlns:viewModel1="clr-namespace:FinalBPM.ViewModel;assembly=FinalBPM"
+             xmlns:pages="clr-namespace:Acr.XamForms.Pages;assembly=Acr.XamForms"
+             x:Class="FinalBPM.View.DevicePage">
+
+    <ContentPage.Content>
+        <StackLayout >
+            <StackLayout.Resources>
+                <ResourceDictionary>
+                    <Style x:Key="MyStyles" TargetType ="Button"  >
+                        <Setter Property="FontSize" Value="Medium" />
+                        <Setter Property="FontAttributes" Value="Bold" />
+                        <Setter Property ="BackgroundColor" Value ="#212121"/>
+                        <Setter Property="HeightRequest" Value ="75"/>
+                    </Style>
+                </ResourceDictionary>
+            </StackLayout.Resources>
+
+            <Button Style="{DynamicResource MyStyles}" Text="{Binding ConnectText}" Command="{Binding ConnectionToggle}" />
+            <Button Style="{DynamicResource MyStyles}"  Text="{Binding PairingText}" Command="{Binding PairToDevice}" />
+            <Button  Command="{Binding MeasureToggle}" x:Name ="MeasureButton" Style="{DynamicResource MyStyles}"  BackgroundColor ="#09af00"  TextColor ="Black">
+                <Button.Triggers>
+                    <DataTrigger TargetType="Button" Binding="{Binding ReadyToMeasure}" Value="True">
+                        <Setter Property="Text" Value="Measure!" />
+                    </DataTrigger>
+                    <DataTrigger  TargetType="Button" Binding="{Binding ReadyToMeasure}" Value="False">
+                        <Setter Property="Text" Value="Connect to Measure" />
+                    </DataTrigger>
+                </Button.Triggers>
+            </Button>
+        </StackLayout>
+    </ContentPage.Content>
+</pages:ContentPage>
